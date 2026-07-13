@@ -1,4 +1,4 @@
-MedAssist AI
+#MedAssist AI
 
 An AI-powered medical triage and healthcare guidance assistant built using Dify and Large Language Models.
 
